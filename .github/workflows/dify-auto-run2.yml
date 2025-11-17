@@ -1,4 +1,4 @@
-name: Auto Run Dify Workflow
+name: Auto Run Dify Workflow2
 
 on:
   schedule:
