@@ -3,7 +3,7 @@ name: Auto Run Dify Workflow
 on:
   schedule:
     # 每天早上 8 点执行一次 (UTC 时间，请换算为你的时区)
-    - cron: "0 8 * * *"
+    - cron: "30 23 * * *"
   workflow_dispatch:  # 也允许手动触发
 
 jobs:
